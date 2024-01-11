@@ -1,0 +1,4 @@
+нояб. 05, 2023 2:40:56 PM CustomAgeException <init>
+SEVERE: CustomAgeException: Возраст вне допустимого диапазона
+нояб. 14, 2023 3:42:27 PM CustomAgeException <init>
+SEVERE: CustomAgeException: Возраст вне допустимого диапазона
